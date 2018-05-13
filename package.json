@@ -1,0 +1,21 @@
+{
+  "name": "seismap",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "data": "^0.6.1",
+    "date-fns": "^1.29.0",
+    "google-maps": "^3.3.0",
+    "parcel-bundler": "^1.8.1",
+    "trilateration": "0.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
